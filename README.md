@@ -22,6 +22,8 @@ __Texto en negrita en MD__
 
 <Strong>Texto en negrita en HTML</strong>
 
+## Citas
+
 > _En un lugar de la Mancha..._
 
 Miguel de Cervantes (1605)
@@ -30,3 +32,9 @@ Miguel de Cervantes (1605)
   <em>En un lugar de la Mancha...</em>
 </blockquote>
 Miguel de Cervantes (1605)
+
+## Enlaces
+
+[Enlace MD al sitio del IMN](http://www.imn.ac.cr)
+
+<a href="http://www.imn.ac.cr/">Enlace HTML al sitio del IMN</a>
