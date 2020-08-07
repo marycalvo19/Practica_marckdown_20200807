@@ -1,2 +1,1 @@
-# Practica_marckdown_20200807
-Practica de markdown
+# Encabezado Markdown de nivel 1
