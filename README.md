@@ -65,3 +65,10 @@ Logo del MINAE en MD
 - Primer elemento
 - Segundo elemento
 - Tercer elemento
+
+## Listas numeradas anidadas (poner 4 espacios)
+1. Primer elemento
+    -1.1. 
+    -1.2.
+2. Segundo elemento
+3. Tercer elemento
