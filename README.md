@@ -104,6 +104,6 @@ Logo del MINAE en MD
 ## Tablas con HTML
 <table>
   <tr>
-    <td>Nombre</td>Apellido</td>
+    <td>Nombre</td><td>Apellido</td>
   </tr>
 </table> 
