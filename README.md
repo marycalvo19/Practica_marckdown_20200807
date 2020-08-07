@@ -39,4 +39,5 @@ Miguel de Cervantes (1605)
 
 <a href="http://www.imn.ac.cr/">Enlace HTML al sitio del IMN</a>
 
-![](https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo-minae_big.jpg)
+
+![Logo MINAE desplegado con sitaxis MD](https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo-minae_big.jpg)
