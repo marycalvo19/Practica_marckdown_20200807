@@ -45,6 +45,6 @@ Logo del MINAE en MD
 ![](https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo-minae_big.jpg)
 
 Logo del MINAE en HTML
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo-minae_big.jpg"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo-minae_big.jpg" alt="Logo del MINAE"> 
 
 
