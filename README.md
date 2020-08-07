@@ -49,4 +49,4 @@ Logo del MINAE en HTML
 
 ## Imagenes desde la computadora
 Logo del MINAE en MD desde la compu
-![](Logo_github.png)
+![](Imagenes/Logo_github.png)
