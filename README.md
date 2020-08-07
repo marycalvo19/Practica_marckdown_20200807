@@ -11,6 +11,7 @@
 <h6>Encabezado HTML de nivel 6</h6>
 
 *Texto en itálica en MD*
+\
 _Texto en itálica en MD_
 
 <em>Texto en itálica en HTML</em> 
