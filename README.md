@@ -93,3 +93,10 @@ Logo del MINAE en MD
   <li>Segundo elemento</li>
   <li>Tercer elemento</li>
 </ol>
+
+## Listas no numeradas en HTML
+<ul>
+  <li>Primer elemento</li>
+  <li>Segundo elemento</li>
+  <li>Tercer elemento</li>
+</ul>
