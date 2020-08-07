@@ -106,4 +106,10 @@ Logo del MINAE en MD
   <tr>
     <td>Nombre</td><td>Apellido</td>
   </tr>
+  <tr>
+    <td>Marilyn</td><td>Calvo</td>
+  </tr>
+  <tr>
+    <td>Manuel</td><td>Vargas</td>
+  </tr>
 </table> 
