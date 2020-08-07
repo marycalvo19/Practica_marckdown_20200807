@@ -21,3 +21,7 @@ _Texto en itálica en MD_
 __Texto en negrita en MD__
 
 <Strong>Texto en negrita en HTML</strong>
+
+> _En un lugar de la Mancha..._
+
+Miguel de Cervantes (1605)
