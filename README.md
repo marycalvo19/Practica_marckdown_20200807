@@ -25,3 +25,8 @@ __Texto en negrita en MD__
 > _En un lugar de la Mancha..._
 
 Miguel de Cervantes (1605)
+
+<blockquote>
+  <em>En un lugar de la Mancha...</em>
+</blockquote>
+Miguel de Cervantes (1605)
