@@ -100,3 +100,10 @@ Logo del MINAE en MD
   <li>Segundo elemento</li>
   <li>Tercer elemento</li>
 </ul>
+
+## Tablas con HTML
+<table>
+  <tr>
+    <td>Nombre</td>Apellido</td>
+  </tr>
+</table> 
