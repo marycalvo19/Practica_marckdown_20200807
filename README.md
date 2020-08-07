@@ -17,6 +17,7 @@ _Texto en itálica en MD_
 <em>Texto en itálica en HTML</em> 
 
 **Texto en negrita en MD**
+\
 __Texto en negrita en MD__
 
 <Strong>Texto en negrita en HTML</strong>
