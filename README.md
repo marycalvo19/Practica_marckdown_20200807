@@ -68,7 +68,7 @@ Logo del MINAE en MD
 
 ## Listas numeradas anidadas (poner 4 espacios)
 1. Primer elemento
-    -1.1. 
-    -1.2.
+    1.1. 
+    1.2.
 2. Segundo elemento
 3. Tercer elemento
