@@ -50,3 +50,9 @@ Logo del MINAE en HTML
 ## Imagenes desde la computadora
 Logo del MINAE en MD desde la compu
 ![](Imagenes/Logo_github.png)
+
+## Cambiar tamaño a imágenes usando HTML
+
+Logo del MINAE en MD
+<img src="Imagenes/Logo_github.png" width="100"> 
+
