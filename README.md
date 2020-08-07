@@ -79,3 +79,10 @@ Logo del MINAE en MD
     - 1.2
 - Segundo elemento
 - Tercer elemento
+
+## Listas numeradas en HTML
+<ol>
+  <li>Primer elemento</li>
+  <li>Segundo elemento</li>
+  <li>Tercer elemento</li>
+</ol>
