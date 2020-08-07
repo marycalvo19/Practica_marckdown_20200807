@@ -81,6 +81,13 @@ Logo del MINAE en MD
 - Tercer elemento
 
 ## Listas numeradas en HTML
+<ol>
+  <li>Primer elemento</li>
+  <li>Segundo elemento</li>
+  <li>Tercer elemento</li>
+</ol>
+
+## Listas numeradas en HTML con números romanos (se pueden poner varias opciones, esto es más fácil en HTML)
 <ol type="I">
   <li>Primer elemento</li>
   <li>Segundo elemento</li>
